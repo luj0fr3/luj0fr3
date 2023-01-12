@@ -19,7 +19,7 @@ Download code: https://github.com/lujofr3/App-escritorio/archive/refs/heads/main
 Run the System.exe file
 
 
-Vista previa de la pantalla de inicio o interfaz principal sin conectar a la base datos.
+Preview of the home screen or main interface without connecting to the database.
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
 
 Already connected to the MySQL Workbench database, the application allows you to perform all the operations of a **CRUD** (Create, Read, Update and Delete), that is, add or search for a new contract, edit the database records of data.
