@@ -18,7 +18,7 @@ Download code: https://github.com/lujofr3/App-escritorio/archive/refs/heads/main
 **Step 2**
 Run the System.exe file
 
-
+###App views
 Preview of the home screen or main interface without connecting to the database.
 ![](https://i.postimg.cc/Y0B1VKPz/img1.jpg)
 
