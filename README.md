@@ -26,10 +26,10 @@ Already connected to the MySQL Workbench database, the application allows you to
 ![](https://i.postimg.cc/L8x3sWqm/img2.jpg)
 
 As for the search for contracts, it can be done by **ID**, **username**, by **surnames**, **run**, **device**, etc.
-![](https://i.postimg.cc/tJdhGvQQ/img6.jpg)
+![](https://i.postimg.cc/zfMwCRSM/img4.jpg)
 
 Finally, it never hurts to **remember** to **back up the database** from time to time. This application can **export** an **Excel CSV** file with all the records from the database.
-![](https://i.postimg.cc/t4HgvKCV/Captura4.png)
+![](https://i.postimg.cc/tJdhGvQQ/img6.jpg)
 
 **Licencia**
 **Software Open Source**
