@@ -27,7 +27,7 @@ View of the main interface connected to the database.
 
 Already connected to the MySQL Workbench database, the application allows you to perform all the operations of a **CRUD** (Create, Read, Update and Delete), that is, add or search for a new contract, edit the database records of data.
 
-![](https://i.postimg.cc/L8x3sWqm/img2.jpg)
+![](https://i.postimg.cc/zfMwCRSM/img4.jpg)
 As for the search for contracts, it can be done by **ID**, **username**, by **surnames**, **run**, **device**, etc.
 
 ![](https://i.postimg.cc/tJdhGvQQ/img6.jpg)
