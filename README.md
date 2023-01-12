@@ -25,7 +25,7 @@ Preview of the home screen or main interface without connecting to the database.
 Already connected to the MySQL Workbench database, the application allows you to perform all the operations of a **CRUD** (Create, Read, Update and Delete), that is, add or search for a new contract, edit the database records of data.
 
 ![](https://i.postimg.cc/Wp6YJrqL/Captura2.png)
-As for the search for contracts, it can be done by ID, username, by both surnames, run, device, brand, model, serial number, etc.
+As for the search for contracts, it can be done by **ID**, **username**, by **surnames**, **run**, **device**, etc.
 
 ![](https://i.postimg.cc/D0yrGSRn/Captura3.png)
 Finally, it never hurts to **remember** to **back up the database** from time to time. This application can **export** an **Excel CSV** file with all the records from the database.
