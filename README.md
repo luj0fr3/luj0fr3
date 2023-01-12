@@ -41,10 +41,12 @@ Finally, it never hurts to **remember** to **back up the database** from time to
 
 **Licencia**
 **Software Open Source**
+<br>
 Publicly **available** and **accessible**: everyone can view, modify, and distribute the code in any way they see fit.
 
 
 **Author**: Luis Jofré Pérez
 <br>
 **Email address**: luisjofreperez@gmail.com
-Copiapo, julio 2022
+<br>
+Copiapo, junio 2022
