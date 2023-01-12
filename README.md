@@ -19,13 +19,6 @@ Download code: https://github.com/lujofr3/App-escritorio/archive/refs/heads/main
 Run the System.exe file
 
 
-###### Database structure in MySQL Workbench with their respective columns
-
-id	| name	|surname	|run		|device|brand	|model	|serie	|fepre	|fedevo|condition	|date	|time	|
--------------| -------------|-----------|---------|------------|--------|---------|------|--------|--------|
-1 | Jhon  | Arias Monnt  |12.220.465-3|Notebook|Lenovo|IdeaPad|PF306000|10-03-0000|30-12-0000|Operativo|10-10-0000|12:10:00|
-
-
 Vista previa de la pantalla de inicio o interfaz principal sin conectar a la base datos.
 ![](https://i.postimg.cc/8cKC0ccp/Captura1.png)
 
