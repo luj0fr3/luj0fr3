@@ -38,6 +38,6 @@ Publicly **available** and **accessible**: everyone can view, modify, and distri
 
 
 <br>
-**Email address**: luisjofreperez@gmail.com
+Email address: luisjofreperez@gmail.com
 <br>
 Copiapo, junio 2022
