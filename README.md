@@ -22,6 +22,9 @@ Run the System.exe file
 Preview of the home screen or main interface without connecting to the database.
 ![](https://i.postimg.cc/Y0B1VKPz/img1.jpg)
 
+View of the main interface connected to the database.
+![](https://i.postimg.cc/L8x3sWqm/img2.jpg)
+
 Already connected to the MySQL Workbench database, the application allows you to perform all the operations of a **CRUD** (Create, Read, Update and Delete), that is, add or search for a new contract, edit the database records of data.
 
 ![](https://i.postimg.cc/L8x3sWqm/img2.jpg)
