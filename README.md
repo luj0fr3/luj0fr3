@@ -41,7 +41,7 @@ Finally, it never hurts to **remember** to **back up the database** from time to
 
 **Licencia**
 **Software Open Source**
-Software disponible y accesible a todo público: todos pueden ver, modificar y distribuir el código de la forma que consideren conveniente.
+Publicly **available** and **accessible**: everyone can view, modify, and distribute the code in any way they see fit.
 
 
 **Author**: Luis Jofré Pérez
